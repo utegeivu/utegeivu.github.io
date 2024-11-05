@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://utegeivu.github.io/NCa/sitemap_index.txt
+Sitemap: https://utegeivu.github.io/SZv/sitemap_index.txt
+Sitemap: https://utegeivu.github.io/ScL/sitemap_index.txt
+Sitemap: https://utegeivu.github.io/twb/sitemap_index.txt
